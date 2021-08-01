@@ -1,0 +1,53 @@
+.heading {
+    text-align: center;
+}
+
+.chicken {
+    width: 25%;
+    height: 10%;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    float: right;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.beef {
+    width: 25%;
+    height: 10%;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    float: right;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.sushi {
+    width: 25%;
+    height: 10%;
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    float: right;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.content {
+    padding-top: 25px;
+    border: 1px solid black;
+    background-color: grey;
+}
+
+@media (min-width: 1200px) {
+    
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+@media (max-width: 991px) {
+    .content {
+        margin-bottom: 25px;
+    }
+}
